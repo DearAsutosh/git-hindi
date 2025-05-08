@@ -1,5 +1,5 @@
-#learning github
+# learning github
 
-##Install
+## Install
 
 this is some installation instructions.
